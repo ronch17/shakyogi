@@ -15,7 +15,7 @@ export default function Hero() {
           <FlowerEl />
       
 
-        <div className="w-full max-w-7xl mx-auto px-6 py-20 flex flex-col gap-12 md:flex-row md:items-center md:gap-16 ">
+        <div className="w-full max-w-7xl mx-auto px-6 py-20 flex flex-col gap-30 md:flex-row md:items-center md:gap-16 ">
 
           {/* Video card — slides in from left, then floats */}
           <div className="flex-1 flex justify-center md:justify-start">
